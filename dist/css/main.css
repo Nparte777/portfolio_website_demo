@@ -164,8 +164,7 @@ input[class^="btn-"]:hover {
 
 * {
   margin: 0;
-  padding: 0;
-  border: #ccc 1px dotted; }
+  padding: 0; }
 
 body {
   font-family: "Dosis", sans-serif;
